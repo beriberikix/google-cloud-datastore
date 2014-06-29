@@ -1,0 +1,9 @@
+{
+  "name": "google-cloud-datastore",
+  "version": "0.0.0",
+  "keywords": "seed, polymer, web-components",
+  "main": "google-cloud-datastore.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.1"
+  }
+}
